@@ -1,4 +1,4 @@
-# RGBをBGRに入れ替える
+# グレースケール化
 
 import cv2
 import numpy as np
