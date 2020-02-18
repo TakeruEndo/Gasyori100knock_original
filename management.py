@@ -21,3 +21,6 @@ if __name__ == '__main__':
     solved_num = [1, 2, 3, 4]
     add_status(unsolved_num, solved_num, './Q1-10/')
 
+    unsolved_num = [19]
+    solved_num = []
+    add_status(unsolved_num, solved_num, './Q11-20/')
